@@ -10,8 +10,8 @@ public class Rectangulo_SPL extends FiguraGeometrica_SPL {
 	
 	/**Constructor de la clase. 
 	 * @param tipoFigura es el tipo de figura
-	 * @param l1 es la longitud del lado 1
-	 * @param l2 es la longitud del lado 2
+	 * @param lG es la longitud del lado 1
+	 * @param lP es la longitud del lado 2
 	*/
 	public Rectangulo_SPL(String tipoFigura, double lG, double lP) {
 		super(tipoFigura);

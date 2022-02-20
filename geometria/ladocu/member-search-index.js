@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Rectangulo_SPL","l":"area()"},{"p":"<Unnamed>","c":"Rectangulo_SPL","l":"perimetro()"},{"p":"<Unnamed>","c":"Rectangulo_SPL","l":"Rectangulo_SPL(String, double, double)","u":"%3Cinit%3E(java.lang.String,double,double)"}];updateSearchResults();
