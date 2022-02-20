@@ -7,6 +7,10 @@ public class Circulo_SPL extends FiguraGeometrica_SPL {
 	public Circulo_SPL(double r, String tipoFigura) {
 		super(tipoFigura);
 		radio = r;
+		int negativo = -1;
+		if (radio<0) {
+			radio = r * negativo;
+		}
 	}
 
 	@Override
